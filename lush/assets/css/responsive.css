@@ -1,0 +1,281 @@
+@media (max-width:1288px){
+    .cta_warper .para{
+        padding-left: 30px;
+    }
+    .one{
+        padding-top: 20px;
+    }
+    .con .blog_main{
+        justify-content: center;
+    }
+    .blog_main .blog{
+        max-width: 300px;
+    }
+    .blog_main .blog img,
+    .blog_main .blog .image{
+        max-width: 300px;
+        height: auto;
+    }
+}
+@media (max-width:1200px){
+    .main_warper{
+        padding-left: 33px;
+        padding-right: 33px;
+    }
+}
+@media (max-width:1180px){
+    .main_warper{
+        padding-left: 33px;
+        padding-right: 33px;
+    }
+    /* .cta_warper .para{
+        font-size: 30px;
+        line-height: 40px;
+        padding-left:60px ;
+    } */
+    .con .blog_main{
+        justify-content: center;
+    }
+    /* .cta_warper .para{
+        padding-left: 30px;
+    } */
+    .test_warper{
+        justify-content: center;
+        gap: 20px;
+    }
+    .test_warper .test{
+        max-width: 300px;
+    }
+    .cactus{
+        max-width: 230px;
+    }
+    .cactus img{
+        max-width: 230px;
+    }
+    .price_warper a{
+        padding: 5px 20px;
+    }
+ 
+
+}
+@media (max-width:1119px){
+    .products{
+        justify-content: center;
+    }
+    .test_warper{
+        justify-content: center;
+        gap: 30px;
+    }
+
+}
+@media (max-width: 1024px){
+
+    .hero_warper h1{
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .warper_1{
+        padding-left: 20px;
+        padding-right: 20px;
+        flex-wrap: wrap;
+    }
+    .about_warper .warper_1 h2{
+        max-width: 894px;
+    }
+    .about_warper .warper_2{
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+        margin-top: 20px;
+    }
+    .about_warper .warper_1 p{
+
+        max-width: 800px;
+    }
+    .products{
+        justify-content: center;
+        gap: 27px;
+    }
+    .benefit_warper .benefit img{
+        max-width: 500px;
+    }
+    .con .blog_main{
+        justify-content: center;
+        gap: 30px;
+    }
+    /* .blog_main .blog{
+        max-width: 300px;
+    }
+    .blog_main .blog img,
+    .blog_main .blog .image{
+        max-width: 300px;
+        height: auto;
+    } */
+    .cta_warper .para{
+        max-width: 716px;
+        font-size: 30px;
+        line-height: 40px;
+        margin-left: 10px;
+    }
+    .email input{
+        margin-top: 66px;
+        margin-left: 36px;
+        max-width: 400px;
+        padding: 14px 305px 14px 20px;
+    }
+    .email a{
+        margin-top:20px;
+    }
+
+}
+@media (max-width:975px){
+    .cactus{
+        max-width: 230px;
+    }
+    .cactus img{
+        max-width: 230px;
+
+    }
+    .price p{
+        padding-left: 10px;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .price_warper a{
+        padding: 5px 9px;
+        font-size: 11px;
+
+
+    }
+    /* .cta_warper{
+        flex-direction: column;
+    } */
+    .cta_warper .para{
+        font-weight: 600;
+        font-size: 25px;
+        line-height: 30px;
+        padding-left: 50px;
+        margin-left: 10px;
+    }
+   
+    /* .email input{
+        font-weight: 400;
+        font-size: 14px;
+        padding: 12px 60px 12px 25px;
+        max-width: 320px;
+
+    } */
+    
+    .blog_sec h3{
+        font-size: 28px;
+        line-height: 30px;
+        letter-spacing: 0.03em;
+    }
+}
+@media (max-width:822px){
+    .nav_item ,
+    .call_btn{
+        display: none;
+    }
+    .burger{
+        display: block;
+    }
+    .hero_warper h1{
+        font-size: 40px;
+        line-height: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .hero_warper p{
+
+        font-size: 16px;
+        line-height: 20px; 
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .warper_1 p{
+
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 10px;
+    }
+    .warper_2 .card_1{
+        margin-top: 20px;
+    }
+    .about_warper .warper_1 h2{
+        font-size: 30px;
+        line-height: 40px;
+        letter-spacing: 0.03em;
+    }
+
+    .email{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .email input{
+        padding: 14px 200px 14px 20px;
+    }
+    .foot ul{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+    .foot .foot_heading{
+        font-weight: 500;
+        font-size: 28px;
+    }
+}
+@media (max-width:646px){
+    .hero_warper h1{
+        font-size: 30px;
+    }
+    .warper_2{
+
+        margin-top: 40px;
+    }
+    .product_warper h3{
+        font-size: 25px;
+
+    }
+    .benefit_warper .benefit img{
+        max-width: 320px;
+    }
+    .cont h3{
+        font-size: 25px;
+        letter-spacing: 0.03em;
+
+
+    }
+    .testimonial_sec h3{
+        font-size: 25px;
+        letter-spacing: 0.03em;
+    }
+    .gallery_warper .benefit1 img{
+        max-width: 320px;
+        height: auto;
+    }
+    .group_one .first1 img{
+        max-width: 320px;
+        height: auto;
+    }
+    .cta_warper .para{
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .email input{
+        max-width: 230px;
+        padding: 14px 100px 14px 20px;
+    }
+}
+@media (max-width:470px){
+    .email input{
+        max-width: 180px;
+        padding: 12px 30px;
+    }
+    .email a{
+        padding: 12px 30px;
+        margin-left: 10px;
+    }
+}
